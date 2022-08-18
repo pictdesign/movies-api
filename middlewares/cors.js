@@ -3,9 +3,9 @@ const DEFAULT_ALLOWED_METHODS = 'GET,HEAD,PUT,PATCH,POST,DELETE';
 const allowedCors = [
   'localhost:3000',
   'http://localhost:3000',
-  'movie.students.nomoredomains.xyz',
-  'http://movie.students.nomoredomains.xyz',
-  'https://movie.students.nomoredomains.xyz',
+  'pictmovies.nomoredomains.xyz',
+  'http://pictmovies.nomoredomains.xyz/
+  'https://pictmovies.nomoredomains.xyz',
 ];
 
 module.exports = (req, res, next) => {
