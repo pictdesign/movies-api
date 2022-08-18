@@ -4,7 +4,7 @@ const allowedCors = [
   'localhost:3000',
   'http://localhost:3000',
   'pictmovies.nomoredomains.xyz',
-  'http://pictmovies.nomoredomains.xyz/
+  'http://pictmovies.nomoredomains.xyz/',
   'https://pictmovies.nomoredomains.xyz',
 ];
 
